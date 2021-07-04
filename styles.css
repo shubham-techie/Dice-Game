@@ -1,0 +1,76 @@
+body{
+    background-color: #133B5C;
+    text-align: center;
+}
+
+/* container */
+
+.container{
+    margin: 0 auto;
+    width: 70%;
+}
+
+h1{
+    font-size: 8rem;
+    font-family: 'Permanent Marker', cursive;
+    /* color: #D9DAB0 ; */
+    color: #ECD662;
+    margin: 50px 50px 40px;
+    margin-top: 0;
+    line-height: 1.5;
+    text-shadow:0 5px #020c1a;
+}
+
+.dice{
+    display: inline-block;
+    margin: 0 5%;
+    
+}
+
+p{
+    font-size: 2rem;
+    font-family: 'Tourney', cursive;
+    color: #E4FBFF;
+    font-style: italic;
+    margin: 32px;
+}
+
+img{
+    width: 90%;
+}
+
+/* button */
+
+.btn{
+    margin: 30px;
+    background-color: #3D94F6;
+    padding: 15px 40px;
+    color: #fff;
+    font-family: Brush Script MT;
+    font-size: 40px;
+    border: solid #337FEd 1px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 20px #000;
+    text-shadow: 1px 1px 20px #000;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: #1E62D0;
+}
+
+/* footer */
+
+footer,a{
+    margin-top: 2%;
+    color: #EEEEEE;
+    font-family: 'Lobster', cursive;
+}
+
+.fa-heart{
+    color: red;
+}
+
+.fa-dice-d6{
+    color: rgb(127, 129, 255);
+}
