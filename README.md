@@ -1,4 +1,7 @@
 # A Battle Dice
+
+Made with HTML,CSS, and JS.
+
 The game has **two players** each having their own dice and a **roll button**. \
 Game will announce a winner depending on whose dice value is higher.
 
